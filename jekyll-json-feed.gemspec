@@ -3,10 +3,10 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-json-feed"
   spec.version       = "1.0.1"
-  spec.authors       = ["Colin Seymour"]
-  spec.email         = ["lildood@gmail.com"]
-  spec.summary       = "A Jekyll plugin to generate a JSON feed of your Jekyll posts"
-  spec.homepage      = "https://github.com/lildude/jekyll-json-feed"
+  spec.authors       = ["Rosemary Orchard"]
+  spec.email         = ["contact@rosemaryorchard.com"]
+  spec.summary       = "A Jekyll plugin to generate a JSON feed of your Jekyll posts, based on the work by lildood"
+  spec.homepage      = "https://github.com/RosemaryOrchard/jekyll-json-feed"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
