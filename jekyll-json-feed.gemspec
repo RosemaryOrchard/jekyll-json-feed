@@ -1,7 +1,7 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-json-feed"
+  spec.name          = "jekyll-json-feed-rose"
   spec.version       = "1.0.1"
   spec.authors       = ["Rosemary Orchard"]
   spec.email         = ["contact@rosemaryorchard.com"]
